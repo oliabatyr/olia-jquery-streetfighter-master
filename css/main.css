@@ -23,7 +23,7 @@ body {
   display: none;
 }
 .ryu-ready {
-  background-image: url('../images/rye-ready-position.gif');
+  background-image: url('../images/ryu-ready-position.gif');
 }
 .ryu-still {
   background-image: url('../images/ryu-standing-still.png');
